@@ -1,0 +1,1 @@
+Hiii this is text from "file.txt" and will be copied to "copy_file.txt"
