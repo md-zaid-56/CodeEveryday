@@ -1,1 +1,1 @@
-Hello this is Before Git Command (git diff) used
+Hello this is After Git Command (git diff) used
